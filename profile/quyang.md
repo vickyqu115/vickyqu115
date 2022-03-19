@@ -2,7 +2,6 @@
 
 
 ## Portfolio
----
 | Title    | Description |
 |:---------|:------------|
 | WPF      |             |

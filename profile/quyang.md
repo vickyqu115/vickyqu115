@@ -5,7 +5,7 @@
 ---
 | Title    | Description |
 |:---------|:------------|
-| WPF      |:------------|
-| React    |:------------|
-| GitHub   |:------------|
-| Markdown |:------------|
+| WPF      |             |
+| React    |             |
+| GitHub   |             |
+| Markdown |             |

@@ -31,5 +31,12 @@
 
 ## 닥터스트레인지
 
+```csharp
+public void Quyang()
+{
+    Console.WriteLine("♥");
+}
+```
+
 ![image](https://user-images.githubusercontent.com/101777355/167283856-c424016f-cb7c-4711-bd79-1232e94c03ae.png)
 

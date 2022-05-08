@@ -19,3 +19,17 @@
 | 2008 | 아이언맨 1 | 존 파브로 | 로버트 다우니 주니어 |
 | 2009 | 헐크 | 존 파브로 | 에드워드 노튼 |
 | 2010 | 아이언맨 2 | 존 파브로 | 로버트 다우니 주니어 |
+
+## 아이언맨
+
+![image](https://user-images.githubusercontent.com/101777355/167283841-f1ca0494-5cc2-4a04-be3b-41ef0a423e1b.png)
+
+
+## 캡틴아메리카
+
+## 토르
+
+## 닥터스트레인지
+
+![image](https://user-images.githubusercontent.com/101777355/167283856-c424016f-cb7c-4711-bd79-1232e94c03ae.png)
+

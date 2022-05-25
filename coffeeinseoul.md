@@ -37,5 +37,5 @@
   
   | 카페이름 | 위치 | 분위기 | 추천메뉴 | 사진 |
   |:------:|:------|:-------|:------|:------|
-  | 에르디 | 서울 관악구 관악로12길 113 | **** | 커스터드 크림 라떼 |  <img src="![751FE752-4962-4CF5-BFC3-364B38843C8C](https://user-images.githubusercontent.com/101777355/170294590-9c1309e3-e4cc-46e6-a93a-490c4a0bf9fc.JPG)width="200"/> |
+  | 에르디 | 서울 관악구 관악로12길 113 | **** | 커스터드 크림 라떼 | <img src="![751FE752-4962-4CF5-BFC3-364B38843C8C](https://user-images.githubusercontent.com/101777355/170294590-9c1309e3-e4cc-46e6-a93a-490c4a0bf9fc.JPG)width="200"/> |
 

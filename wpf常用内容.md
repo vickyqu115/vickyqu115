@@ -1,8 +1,13 @@
 1、Border 设置控件画边框，
+
 2、Button 按钮 
+
 3、Calendar 日历 
+
 4、Canvas 画布控件 
+
 5、Checkbox 复选框 
+
 6、Combobox 下拉列表框 
 7、ContentControl 内容控件 
 8、DataGrid 显示表格数据 

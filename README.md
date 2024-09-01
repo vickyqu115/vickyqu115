@@ -5,8 +5,8 @@
 Hello! I'm Yang Qu, a WPF expert, tutorial creator, and community educator. My passion lies in creating comprehensive WPF tutorials and fostering a vibrant developer community. Together with Jaewung Lee ([@jamesnet214](https://github.com/jamesnet214)), I'm dedicated to advancing WPF and XAML-based technologies through various educational activities.
 
 ## 🚀 Key Activities and Achievements
-- **Microsoft MVP**: Selected in Windows Development category [MVP Profile](https://mvp.microsoft.com/en-US/MVP/profile/ca186d6d-b3c7-428b-aab1-9479a4145041)
 - **WPF Tutorial Creation**: Developed and published numerous in-depth WPF tutorials, which form the core of my contributions to the community
+- **Microsoft MVP**: Selected in Windows Development category [MVP Profile](https://mvp.microsoft.com/en-US/MVP/profile/ca186d6d-b3c7-428b-aab1-9479a4145041)
 - **BiliBili Channel**: Operating a popular WPF tutorial channel (4,400+ subscribers) [Channel Link](https://bit.ly/3SkYutn)
 - **YouTube Content**: Producing WPF tutorials and tech reviews [Channel Link](https://bit.ly/3WBe6eR)
 - **Technical Author**: Co-authored "WPF Inside Out" with Jaewung Lee (2023, Korean) [Book Info](https://bit.ly/4cWqjjQ)

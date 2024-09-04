@@ -1,5 +1,8 @@
 # Yang Qu ([@vickyqu](https://github.com/vickyqu)) [![English](https://img.shields.io/badge/README.md-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/README.md-中文-red.svg)](README.zh-CN.md) [![한국어](https://img.shields.io/badge/README.md-한국어-green.svg)](README.ko.md)
 
+
+[![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-Windows%20Development-blue)](https://mvp.microsoft.com/en-US/MVP/profile/ca186d6d-b3c7-428b-aab1-9479a4145041)
+
 안녕하세요! 저는 Yang Qu입니다. WPF 전문가, 튜토리얼 제작자, 그리고 커뮤니티 교육자입니다. 저의 열정은 종합적인 WPF 튜토리얼을 만들고 활기찬 개발자 커뮤니티를 육성하는 데 있습니다. Jaewung Lee ([@jamesnet214](https://github.com/jamesnet214))와 함께, 다양한 교육 활동을 통해 WPF와 XAML 기반 기술을 발전시키는 데 힘쓰고 있습니다.
 
 ## 🚀 주요 활동 및 성과

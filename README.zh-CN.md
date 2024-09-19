@@ -7,7 +7,7 @@
 ## 🚀 主要活动和成就
 
 - **WPF教程创作**：开发并发布了多个深入的WPF教程，这是我对社区贡献的核心
-- **哔哩哔哩频道**：运营一个受欢迎的WPF中文教程频道（4,400+订阅者）[频道链接](https://bit.ly/3SkYutn)
+- **哔哩哔哩频道**：运营一个受欢迎的WPF中文教程频道（5,100+订阅者）[频道链接](https://bit.ly/3SkYutn)
 - **YouTube内容**：运营一个受欢迎的WPF英文/韩文教程频道 [频道链接](https://bit.ly/3WBe6eR)
 - **技术作者**：与Jaewung Lee共同撰写《WPF Inside Out》（2023年，韩语版）[书籍信息](https://bit.ly/4cWqjjQ)
 - **社区教育**：共同管理Jamesnet.dev技术文章社区 [网站](https://jamesnet.dev)

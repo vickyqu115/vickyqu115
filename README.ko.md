@@ -10,7 +10,7 @@ WPF에 관심이 있으시다면, 이 흥미진진한 학습 여정에 함께 �
 ## 🚀 주요 활동 및 성과
 
 - **WPF 튜토리얼 제작**: 커뮤니티에 대한 제 기여의 핵심인 다수의 심도 있는 WPF 튜토리얼 개발 및 발표
-- **BiliBili 채널**: 인기 있는 WPF 튜토리얼 채널 운영 (4,400+ 구독자) [채널 링크](https://bit.ly/3SkYutn)
+- **BiliBili 채널**: 인기 있는 WPF 튜토리얼 채널 운영 (5,100+ 구독자) [채널 링크](https://bit.ly/3SkYutn)
 - **YouTube 콘텐츠**: WPF 튜토리얼 및 기술 리뷰 제작 [채널 링크](https://bit.ly/3WBe6eR)
 - **기술 저자**: Jaewung Lee와 함께 "WPF Inside Out" 공동 저술 (2023, 한국어) [도서 정보](https://bit.ly/4cWqjjQ)
 - **커뮤니티 교육**: Jamesnet.dev 기술 아티클 커뮤니티 공동 관리 [웹사이트](https://jamesnet.dev)

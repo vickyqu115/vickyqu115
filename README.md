@@ -51,7 +51,7 @@ These tutorials cover a wide range of WPF topics, from basic controls to advance
 ## 📫 Contact
 
 - Website: [jamesnet.dev](https://jamesnet.dev)
-- Email: vkcyqu115@hotmail.com
+- Email: vickyqu115@hotmail.com
 
 I am dedicated to making WPF development accessible and enjoyable for developers of all levels. Through my tutorials, workshops, and community engagement, I aim to empower developers to create beautiful and functional WPF applications. Join me in this exciting journey of learning and mastering WPF!
 

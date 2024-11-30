@@ -51,7 +51,7 @@
 ## 📫 联系方式
 
 - 网站：[jamesnet.dev](https://jamesnet.dev)
-- 电子邮件：vkcyqu115@hotmail.com
+- 电子邮件：vickyqu115@hotmail.com
 
 我致力于让各级开发者都能轻松愉快地进行WPF开发。通过我的教程、研讨会和社区参与，我的目标是赋予开发者创建美观且功能强大的WPF应用程序的能力。加入我，一起踏上这个激动人心的WPF学习和掌握之旅吧！
 

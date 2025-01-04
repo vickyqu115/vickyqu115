@@ -34,6 +34,7 @@
 4. [Riot滑块](https://github.com/jamesnetgroup/riotslider)：开发自定义WPF滑块控件
 5. [智能日期](https://github.com/jamesnetgroup/smartdate)：创建现代化的DatePicker替代品
 6. [Cupertino树视图](https://github.com/jamesnetgroup/cupertino-treeview)：实现高级自定义控件TreeView
+7. [动态主题](https://github.com/JamesnetGroup/dynamic-theme): 基于资源字典的WPF动态主题框架架构设计
 
 这些教程涵盖了广泛的WPF主题，从基本控件到高级自定义实现。
 

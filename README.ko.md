@@ -37,6 +37,7 @@ WPF에 관심이 있으시다면, 이 흥미진진한 학습 여정에 함께 �
 4. [Riot 슬라이더](https://github.com/jamesnetgroup/riotslider): 커스텀 WPF 슬라이더 컨트롤 개발
 5. [스마트 데이트](https://github.com/jamesnetgroup/smartdate): 현대적인 DatePicker 대안 만들기
 6. [Cupertino 트리뷰](https://github.com/jamesnetgroup/cupertino-treeview): 고급 커스텀 컨트롤 TreeView 구현
+7. [动态主题](https://github.com/JamesnetGroup/dynamic-theme): 리소스 사전 기반 WPF 동적 테마 프레임워크 아키텍처 설계
 
 이 튜토리얼들은 기본 컨트롤부터 고급 커스텀 구현까지 폭넓은 WPF 주제를 다룹니다.
 

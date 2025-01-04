@@ -34,7 +34,7 @@ My primary focus is creating comprehensive WPF tutorials. Here are some of the k
 4. [Riot Slider](https://github.com/jamesnetgroup/riotslider): Developing a custom WPF Slider control
 5. [Smart Date](https://github.com/jamesnetgroup/smartdate): Creating a modern DatePicker alternative
 6. [Cupertino TreeView](https://github.com/jamesnetgroup/cupertino-treeview): Implementing an advanced CustomControl TreeView
-7. [Dynamic Theme](https://github.com/JamesnetGroup/dynamic-theme):ResourceDictionary-based WPF Dynamic Theme Framework Architecture Design
+7. [Dynamic Theme](https://github.com/JamesnetGroup/dynamic-theme): ResourceDictionary-based WPF Dynamic Theme Framework Architecture Design
 
 These tutorials cover a wide range of WPF topics, from basic controls to advanced custom implementations.
 

@@ -6,9 +6,10 @@
 大家好！我是Yang Qu，一名专注于WPF的开发者、教程创作者和社区教育者。我热衷于制作全面而深入的WPF教程，并致力于培育一个充满活力的开发者社区。我与Jaewung Lee (@jamesnet214)一起，通过各种有趣的教育活动，努力推广WPF和基于XAML的技术。我们的目标是让更多人认识并爱上这些强大的开发工具。如果你对WPF感兴趣，欢迎加入我们的学习之旅！
 ## 🚀 主要活动和成就
 
+
+- **WPF教程创作**：开发并发布了多个深入的WPF教程，这是我对社区贡献的核心
 - **Udemy课程**：开展了一门以WPF Custom Control高级技巧的课程 [频道链接](
 https://www.udemy.com/course/advanced-wpf-customcontrol-design-techniques/?referralCode=88A6FFEA9F78935ABC76)
-- **WPF教程创作**：开发并发布了多个深入的WPF教程，这是我对社区贡献的核心
 - **哔哩哔哩频道**：运营一个受欢迎的WPF中文教程频道（6,000+订阅者）[频道链接](https://bit.ly/3SkYutn)
 - **YouTube内容**：运营一个受欢迎的WPF英文/韩文教程频道 [频道链接](https://bit.ly/3WBe6eR)
 - **技术作者**：与Jaewung Lee共同撰写《WPF Inside Out》（2023年，韩语版）[书籍信息](https://bit.ly/4cWqjjQ)

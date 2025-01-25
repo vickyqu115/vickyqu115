@@ -10,10 +10,10 @@ WPF에 관심이 있으시다면, 이 흥미진진한 학습 여정에 함께 �
 ## 🚀 주요 활동 및 성과
 
 - **WPF 튜토리얼 제작**: 커뮤니티에 대한 제 기여의 핵심인 다수의 심도 있는 WPF 튜토리얼 개발 및 발표
+- **Udemy 강좌**: WPF 사용자 정의 컨트롤의 고급 기법을 다루는 강좌 개설 [채널 링크](https://www.udemy.com/course/advanced-wpf-customcontrol-design-techniques/?referralCode=88A6FFEA9F78935ABC76)
 - **BiliBili 채널**: 인기 있는 WPF 튜토리얼 채널 운영 (6,000+ 구독자) [채널 링크](https://bit.ly/3SkYutn)
 - **YouTube 콘텐츠**: WPF 튜토리얼 및 기술 리뷰 제작 [채널 링크](
 https://www.udemy.com/course/advanced-wpf-customcontrol-design-techniques/?referralCode=88A6FFEA9F78935ABC76)
-- **Udemy 강좌**: WPF 사용자 정의 컨트롤의 고급 기법을 다루는 강좌 개설 [채널 링크](https://bit.ly/3WBe6eR)
 - **기술 저자**: Jaewung Lee와 함께 "WPF Inside Out" 공동 저술 (2023, 한국어) [도서 정보](https://bit.ly/4cWqjjQ)
 - **커뮤니티 교육**: Jamesnet.dev 기술 아티클 커뮤니티 공동 관리 [웹사이트](https://jamesnet.dev)
 - **오프라인 세미나**: 실습 WPF 기술 워크샵 진행 [세미나 목록](https://bit.ly/4bWk3az)
